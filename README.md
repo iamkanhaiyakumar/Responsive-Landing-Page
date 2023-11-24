@@ -7,7 +7,7 @@ PRODIGY_WD_01
 # Responsive-Landing-Page By Kanhaiya Kumar
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/) <br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.github.com/iamkanhaiyakumar/) <br>
 <a href="http://127.0.0.1:5500/ResponsiveLandingPage/index.html"> <img src="https://svgur.com/i/iob.svg" /> </a>
 
 ## Responsive-Landing-Page
