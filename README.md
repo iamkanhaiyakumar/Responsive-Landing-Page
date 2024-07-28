@@ -1,5 +1,4 @@
 # Responsive-Landing-Page
-PRODIGY_WD_01
 <p align="center">
 
 </p>
